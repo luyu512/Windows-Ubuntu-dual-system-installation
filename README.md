@@ -9,3 +9,11 @@
 
 双击所需版本，进入下载页面
 ![images](https://github.com/luyu512/ubuntu-/blob/main/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-30%20151909.png)
+
+选择后缀为“desktop-amd-64.iso”的镜像下载
+
+## 第二步：下载Rufus来制作U盘启动盘
+
+Rufus官网地址：https://rufus.ie/zh/
+
+下滑选择rufus-4. 6. exe版本进行下载
