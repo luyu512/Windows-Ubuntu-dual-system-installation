@@ -1,5 +1,7 @@
 # Windows+Ubuntu双系统安装
 
+## *PS: ubuntu 20.04及以下版本安装完成后会有概率导致驱动不兼容情况（博主电脑因此不得不安装usb网卡），故建议选择22.04及以上系统*
+
 ## 第一步：下载Ubuntu镜像
 
 如果我们使用官网进行下载，会因为网络问题导致下载时长过慢，故我们使用清华源镜像：https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/
@@ -72,6 +74,7 @@ ubuntu系统将会被安装在此未分配空间中
 ![images](https://github.com/luyu512/Windows-Ubuntu-dual-system-installation/blob/main/Screenshots/274ee1defd6046ee9a262f5588d6b504.png)
 
 ## 最后三幅图图源：CSDN博主Return，在此鸣谢，侵权必删
+
 
 
 
